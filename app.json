@@ -5,8 +5,8 @@
         "telegram",
         "Earn4click"
     ],
-    "website": "https://github.com/Amul-jat/earn4click",
-    "repository": "https://github.com/Amul-jat/earn4click",
+    "website": "https://github.com/Sagar31/earn4click",
+    "repository": "https://github.com/Sagar31/earn4click",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -22,7 +22,7 @@
         },
         "API_KEY": {
             "description": "https://pvidly.in/member/tools/api",
-            "value": "8e41249f9706af6c5bf2a1acb1c0b5af3c6ddf84"
+            "value": "5f7b202b0d24bf433d44a5e281a9a851608a43b8"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
