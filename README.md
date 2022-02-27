@@ -6,7 +6,7 @@ Make short link by using Earn4click
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Sagar31/earn4click)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Sagar31p/earn4click)
 
 ##### Required Variables
 
@@ -18,4 +18,4 @@ Make short link by using Earn4click
 
 ##### Credit
 
-- Me [Sagar31](https://github.com/Sagar31) For This Repo
+- Me [Sagar31](https://github.com/Sagar31p) For This Repo
