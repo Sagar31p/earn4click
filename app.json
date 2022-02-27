@@ -5,8 +5,8 @@
         "telegram",
         "Earn4click"
     ],
-    "website": "https://github.com/Sagar31/earn4click",
-    "repository": "https://github.com/Sagar31/earn4click",
+    "website": "https://github.com/Sagar31p/earn4click",
+    "repository": "https://github.com/Sagar31p/earn4click",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
